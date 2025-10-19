@@ -1,4 +1,4 @@
-# DCC Test Automation
+# PAF Test Automation
 
 **pure Playwright-BDD** test automation framework using TypeScript and ES modules. This framework follows a **Page Object Model** with clean separation of concerns for automated testing of web applications.
 
@@ -21,7 +21,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd DCC
+cd PAF
 ```
 
 ### 2. Install Dependencies
@@ -113,7 +113,7 @@ npm run ci
 ## 📁 Project Structure
 
 ```
-DCC/
+PAF/
 ├── config/                 # Environment configurations
 │   └── prod.yml           # Production config
 ├── features/              # Cucumber feature files
