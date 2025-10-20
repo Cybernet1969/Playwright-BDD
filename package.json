@@ -1,5 +1,5 @@
 {
-  "name": "PAF",
+  "name": "playwright-bdd",
   "type": "module",
   "devDependencies": {
     "@playwright/test": "^1.55.0",

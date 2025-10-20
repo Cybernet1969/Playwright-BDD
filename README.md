@@ -1,4 +1,4 @@
-# PAF Test Automation
+# Playwright BDD Test Automation
 
 **pure Playwright-BDD** test automation framework using TypeScript and ES modules. This framework follows a **Page Object Model** with clean separation of concerns for automated testing of web applications.
 
@@ -21,7 +21,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd PAF
+cd "Playwright BDD"
 ```
 
 ### 2. Install Dependencies
@@ -113,7 +113,7 @@ npm run ci
 ## 📁 Project Structure
 
 ```
-PAF/
+Playwright BDD/
 ├── config/                 # Environment configurations
 │   └── prod.yml           # Production config
 ├── features/              # Cucumber feature files
